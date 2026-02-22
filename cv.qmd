@@ -2,4 +2,3 @@
 title: "Curriculum Vitae"
 format: html
 ---
-

@@ -3,9 +3,8 @@ title: "Macey Hartmann"
 image: HartmannMaceyHeadshot[247].jpeg
 toc: false
 about: 
-  template: jolla
-  image-shape: round
-  image-width: 17em
+  template: solana
+  image-width: 35em
   links:
     - text: LinkedIn
       href: https://www.linkedin.com/in/macey-hartmann-ba6b4b237
