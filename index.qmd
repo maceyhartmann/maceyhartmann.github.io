@@ -1,6 +1,6 @@
 ---
 title: "Macey Hartmann"
-image: media/HartmannMaceyHeadshot[247].jpeg
+image: media/WebsiteHeadshot.jpeg
 toc: false
 about: 
   template: solana
@@ -16,6 +16,8 @@ about:
     - text: GoodReads
       href: https://www.goodreads.com/user/show/160574617-macey-hartmann
 ---
+
+------------------------------------------------------------------------
 
 Hi there! My name is Macey Hartmann. I grew up along the Northern California coast, where the ocean shaped the way I see the world.
 
