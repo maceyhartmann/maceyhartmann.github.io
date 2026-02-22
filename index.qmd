@@ -1,11 +1,5 @@
 ---
-title: "maceyhartmann.github.io"
+title: "Macey Hartmann"
 ---
 
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{r}
-1 + 1
-```
+Hi there! My name is Macey and I'm from Saratoga, California. This site is a portfolio of my professional and academic experince. Thanks for visiting, I hope you enjoy!
