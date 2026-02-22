@@ -4,20 +4,36 @@ title: "All about me!"
 ---- 
 
 # Currently 
+:::: {layout="[70,30]"}
+::: {#text}
 I'm a fourth-year Environmental Studies B.S. student at UC Santa Barbara, where my research has spanned endangered species conservation, marine debris, geospatial data science, science communication, and environmental education. Outside the classroom, I lead the [Spotting Giant Sea Bass Project](https://spottinggiantseabass.msi.ucsb.edu/) at the [Benioff Ocean Science Laboratory](https://bosl.ucsb.edu/) and direct [UCSB Sprout Up](https://www.sproutup.org/), a nonprofit bringing environmental education to elementary schools. Head to my Projects page to see more of what I've been up to!
+:::
+::: {#image}
 ![](media/AboutMeCurrently.jpeg)
+:::
+::::
 
 ----
 
 # Upcoming
+:::: {layout="[70,30]"}
+::: {#text}
 This coming fall, I'll be joining the [University of Miami's Rosenstiel School](https://www.earth.miami.edu/) to pursue my [PhD in Environmental Science and Policy](https://abess.miami.edu/academics/ph.d.-program/index.html) in Dr. Juan Carlos Villaseñor-Derbez's [Human-Ocean Systems Lab](https://human-ocean-systems.org/). My research will use data science, spatial analysis, and causal inference to understand how marine policy and environmental change shape human behavior at sea.
+:::
+::: {#image}
 ![](media/AboutMeUpcoming.jpeg)
+:::
+::::
 
 ----
 
 # Interests
-When I'm not in the field or behind a screen, you can find me backpacking, scuba diving, tide pooling, or with my nose in a good book.
-{layout="[1, 1, 1]"}
-![](media/AboutMeBackpacking.jpg)
-![](media/AboutMeTeaching.jpeg)
+:::: {layout="[70,30]"}
+::: {#text}
+When I'm not in the field or behind a screen, you can find me backpacking, scuba diving, tide pooling, or with my nose in a good book. Check out my [GoodReads](https://www.goodreads.com/user/show/160574617-macey-hartmann) to see what I'm reading right now! 
+:::
+::: {#image}
 ![](media/AboutMeReading.jpeg)
+:::
+::::
+
