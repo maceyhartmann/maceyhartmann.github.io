@@ -1,16 +1,9 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "All about me!",
-    "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
-  },
-  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Macey Hartmann",
     "section": "",
-    "text": "Hi there! My name is Macey and I’m from Saratoga, California. This site is a portfolio of my professional and academic experience. Thanks for visiting, I hope you enjoy!"
+    "text": "Hi there! My name is Macey Hartmann. I grew up along the Northern California coast, where the ocean shaped the way I see the world.\nI’m currently a fourth-year Environmental Studies B.S. student at UC Santa Barbara, where my research has spanned endangered species conservation, marine debris, geospatial data science, science communication, and environmental education. Outside the classroom, I lead the Spotting Giant Sea Bass Project at the Benioff Ocean Science Laboratory and direct UCSB Sprout Up, a nonprofit bringing environmental education to elementary schools. Head to my Projects page to see more of what I’ve been up to!\nThis coming fall, I’ll be joining the University of Miami’s Rosenstiel School to pursue my PhD in Environmental Science and Policy in Dr. Juan Carlos Villaseñor-Derbez’s Human-Ocean Systems Lab. My research will use data science, spatial analysis, and causal inference to understand how marine policy and environmental change shape human behavior at sea.\nWhen I’m not in the field or behind a screen, you can find me backpacking, scuba diving, tide pooling, or with my nose in a good book."
   }
 ]
