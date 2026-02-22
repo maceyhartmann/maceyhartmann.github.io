@@ -1,9 +1,10 @@
 ---
 title: "Macey Hartmann"
-image: HartmannMaceyHeadshot[247].jpeg
+image: media/HartmannMaceyHeadshot[247].jpeg
 toc: false
 about: 
   template: solana
+  image-shape: round
   image-width: 35em
   links:
     - text: LinkedIn
@@ -12,6 +13,8 @@ about:
       href: https://github.com/maceyhartmann
     - text: Email
       href: mailto:maceyhartmann@ucsb.edu
+    - text: GoodReads
+      href: https://www.goodreads.com/user/show/160574617-macey-hartmann
 ---
 
 Hi there! My name is Macey and I'm from Saratoga, California. This site is a portfolio of my professional and academic experience. Thanks for visiting, I hope you enjoy!
