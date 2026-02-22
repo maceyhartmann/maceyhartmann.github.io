@@ -3,13 +3,19 @@ project:
   output-dir: docs
 
 website:
-  title: "maceyhartmann.github.io"
+  title: "Macey Hartmann"
   navbar:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
-      - Projects.qmd
+      - href: about.qmd
+        text: About
+      - href: Projects.qmd
+        text: Projects
+      - href: Presentations.qmd
+        text: Presentations
+      - href: cv.qmd
+        text: CV
 
 format:
   html:
