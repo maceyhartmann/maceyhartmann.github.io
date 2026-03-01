@@ -1,6 +1,7 @@
 ---
 title: "Nereid Biomaterials and NOAA: Channel Islands National Marine Sanctuary"
 description: Researching Federal Policy, Regulatory Testing, and Marine Debris with Nereid Biomaterials and NOAA Channel Island National Marine Sanctuary  
+image: media/NOAACoverPhoto.jpeg
 ---
 From January to September of 2024, I worked as a Marine Debris, Federal Policy, and Regulatory Intern for Nereid Biomaterials and NOAA Channel Islands National Marine Sanctuary. Plastic waste is a persistent and growing threat to marine environments, ocean inhabitants, and public health, and while ocean-degradable biomaterials have emerged as a promising solution, almost nothing was known about the real-world barriers to implementing them within permitted marine activities.
 

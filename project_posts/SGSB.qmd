@@ -1,6 +1,7 @@
 ---
 title: "Spotting Giant Sea Bass"
 description: "Uncovering the Mysteries of the Giant Sea Bass: Integrating Technology and Community Science for Conservation"
+image: media/SGSBCoverPhoto.jpeg
 ---
 ## My Role 
 I joined the Benioff Ocean Science Laboratory's Spotting Giant Sea Bass Project as a Schmidt Environmental Solutions Fellow, and I haven't been able to stop thinking about the giant fish ever since! After becoming project lead in January 2025, I now contribute to everything from data analysis and spot mapping to community outreach and social media. My senior thesis is bringing all of my work on this project full circle.

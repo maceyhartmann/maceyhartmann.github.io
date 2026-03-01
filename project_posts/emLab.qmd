@@ -1,6 +1,7 @@
 ---
 title: "Environmental Markets Lab"
-description: Diving Deep into Dinner Plates and Distribution Models 
+description: Diving Deep into Dinner Plates and Distribution Models
+image: media/EmlabCover.jpeg
 ---
 
 In the Summer of 2025, I was an Arnhold Environmental Fellow at UCSB's Environmental Markets Lab (emLab), working alongside two graduate student mentors on a project combining fisheries science and ocean conservation.
