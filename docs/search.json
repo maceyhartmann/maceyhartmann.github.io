@@ -1,5 +1,33 @@
 [
   {
+    "objectID": "project_posts/SES.html",
+    "href": "project_posts/SES.html",
+    "title": "Social Ecological Sustainability at Pontificia Universidad Catolica de Chile",
+    "section": "",
+    "text": "In the Fall of 2024, I studied abroad with UCEAP’s Social Ecological Sustainability Program, living with a host family in Villarrica, Chile. This experience deepened my Spanish, immersed me in Chilean culture, and pushed my research in directions I hadn’t expected.\nAlongside a team of fellow UC researchers, I conducted a mixed-methods study exploring how primary schools in Chile’s Araucanía region integrate intercultural and environmental education into their curriculum, and how those values carry into students’ everyday lives. The Araucanía region is home to a significant Mapuche population, and Chilean law requires schools where more than 20% of students identify as Indigenous to incorporate traditional cultural knowledge into the classroom. These factors made the region a fascinating place to study the intersection of ecological and intercultural education.\nWe spent a day with thirteen sixth-grade students from Villa San Pedro Primary School, leading three hands-on activities: a nature drawing exercise where students illustrated their favorite memories in nature, a recycling basketball game that tested their knowledge of waste management, and a biodiversity identification game using posters of the local Andean temperate forest and traditional Mapuche family gardens. We also conducted five in-depth interviews with students, teachers, parents, and municipal administrators to understand how these values were taught, practiced, and passed down across generations.\nThe research revealed that while students demonstrated a solid foundation in environmental knowledge (correctly sorting recyclables, identifying sacred Mapuche species like the Araucaria), there remained meaningful gaps between classroom learning and everyday practice. Perhaps most memorably, it showed that children’s connections to nature were often shaped more by family traditions and cultural memory than by formal education alone."
+  },
+  {
+    "objectID": "project_posts/ScientificDiving.html",
+    "href": "project_posts/ScientificDiving.html",
+    "title": "AAUS Scientific Diving",
+    "section": "",
+    "text": "In August of 2025, I completed the American Academy of Underwater Sciences (AAUS) Scientific Diver certification through UCSB’s Dive Safety Course. The certification required over 100 hours of training across 12 full days, covering everything from pool and ocean skill evaluations to written and online examinations. The course culminated in a three-day trip to USC’s Wrigley Marine Institute on Catalina Island, where we dove in the open ocean and put everything we’d learned to the test. Earning this certification means I’m authorized to conduct SCUBA diving as part of scientific research. During the course I also completed my Rescue Diver Certification, my Nitrox Certification, and my Advanced Open Water Certification."
+  },
+  {
+    "objectID": "project_posts/ARC.html",
+    "href": "project_posts/ARC.html",
+    "title": "DEVELOP: NASA Ames Research Center",
+    "section": "",
+    "text": "In the Summer of 2025, I participated in the NASA DEVELOP Program at NASA Ames Research Center. This experience was one of my first deep dives into geospatial data science. Alongside my team, I worked with Save The Redwoods League to investigate how climate change will affect coastal fog along the California coast, and what that means for the future of coast redwoods.\nUsing GOES-18 and Aqua MODIS satellite data, we developed a method for detecting and quantifying coastal fog presence. From there, we trained a Random Forest machine learning model on historical fog and climate data to project fog frequency all the way through 2090. Our results suggested that fog would actually increase along most of the coast redwood range - an average of 3.4 more hours of fog per day — which would benefit redwood conservation and carbon sequestration. We also analyzed over two decades of sea and land surface temperature trends to better understand the environmental drivers behind those projections.\nThe goal was to give Save the Redwoods League a new, data-driven tool to inform where and how they prioritize conservation. Protecting these ancient trees means understanding the invisible, foggy lifeline they depend on."
+  },
+  {
+    "objectID": "project_posts/NOAA.html",
+    "href": "project_posts/NOAA.html",
+    "title": "Nereid Biomaterials and NOAA: Channel Islands National Marine Sanctuary",
+    "section": "",
+    "text": "From January to September of 2024, I worked as a Marine Debris, Federal Policy, and Regulatory Intern for Nereid Biomaterials and NOAA Channel Islands National Marine Sanctuary. Plastic waste is a persistent and growing threat to marine environments, ocean inhabitants, and public health, and while ocean-degradable biomaterials have emerged as a promising solution, almost nothing was known about the real-world barriers to implementing them within permitted marine activities.\nTo change that, I conducted 11 hour-long informal discussions with 13 permit coordinators and staff across major environmental agencies, including the NOAA Marine Debris Program, the California Department of Fish and Wildlife, the EPA, and several NOAA National Marine Sanctuaries. Through these conversations, I assessed the obstacles, opportunities, and policy landscape surrounding the use of biodegradable plastics in marine research, aquaculture, and fishing.\nThe findings revealed that while marine biodegradable materials were widely seen as a valuable tool — particularly in research, restoration, and aquaculture — they were rarely being considered in practice. The biggest barriers came down to cost, limited awareness of available options, and a lack of proof of concept and durability. The research was compiled into a published NOAA Conservation Series report. I also had the opportunity to take the work beyond the page, assisting with field testing of biomaterials in the Northern Channel Islands, putting the science directly into the water."
+  },
+  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About me!",
@@ -7,10 +35,73 @@
     "text": "Currently\n\n\n\nI’m a fourth-year Environmental Studies B.S. student at UC Santa Barbara, where my research has spanned endangered species conservation, marine debris, geospatial data science, science communication, and environmental education. Outside the classroom, I lead the Spotting Giant Sea Bass Project at the Benioff Ocean Science Laboratory and direct UCSB Sprout Up, a nonprofit bringing environmental education to elementary schools. Head to my Projects page to see more of what I’ve been up to!\n\n\n\n\n\nAll smiles for Campus Point Beach\n\n\n\n\n\n\n\n\nUpcoming\n\n\n\nThis coming fall, I’ll be joining the University of Miami’s Rosenstiel School to pursue my PhD in Environmental Science and Policy in Dr. Juan Carlos Villaseñor-Derbez’s Human-Ocean Systems Lab. My research will use data science, spatial analysis, and causal inference to understand how marine policy and environmental change shape human behavior at sea. I’m excited to grow as a researcher and explore the city of Miami!\n\n\n\n\n\nGo Canes!\n\n\n\n\n\n\n\n\nInterests\n\n\n\nWhen I’m not in the field or behind a screen, you can find me backpacking, scuba diving, practicing yoga, or listening to live music. I inherited a love for running from my mom, and I completed my first half-marathon in 2024. I’m also an avid reader - check out my GoodReads to see what I’m reading right now!\n\n\n\n\n\nReading after completing the Trans-Catalina Trail"
   },
   {
+    "objectID": "Projects.html",
+    "href": "Projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "My passion for environmental science has taken me everywhere from the kelp forests of the Channel Islands, the towering coast redwood groves in northern California, and the communities of southern Chile. Currently, I lead the Spotting Giant Sea Bass Project at UC Santa Barbara’s Benioff Ocean Science Laboratory and direct Sprout Up UCSB, a program bringing environmental education to local elementary schools. During my research journey, I have worked for NASA Ames Research Center, NASA Headquarters, NOAA Channel Islands National Marine Sanctuary, UCSB’s Environmental Markets Lab, and Pontificia Universidad Católica de Chile. Each research opportunity has shaped the way I think about science, people, and the environment.\n\n\n\n\n\n\n\n\n\n\n\n\n\nAAUS Scientific Diving\n\n\nAAUS Scientific Diver Certification Completed through UCSB’s Dive Safety Course\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDEVELOP: NASA Ames Research Center\n\n\nCoupling Satellite Observations and Machine Learning to Predict Future Fog Patterns Along the Coast Redwood Range\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nEnvironmental Markets Lab\n\n\nDiving Deep into Dinner Plates and Distribution Models\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNereid Biomaterials and NOAA: Channel Islands National Marine Sanctuary\n\n\nResearching Federal Policy, Regulatory Testing, and Marine Debris with Nereid Biomaterials and NOAA Channel Island National Marine Sanctuary\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSocial Ecological Sustainability at Pontificia Universidad Catolica de Chile\n\n\nGrowing Futures and Exploring Interculturality and Environmental Education in Arucania Primary Schools\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSpotting Giant Sea Bass\n\n\nUncovering the Mysteries of the Giant Sea Bass: Integrating Technology and Community Science for Conservation\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSprout Up!\n\n\nEnvironmental Education for the Next Generation\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSustainability at NASA Headquarters\n\n\nInvestigating the Feasibility of Using Remote Sensing and GIS to Understand Invasive and Non-Native Plant Species\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Macey Hartmann",
     "section": "",
     "text": "Hi there! My name is Macey Hartmann. I grew up along the Northern California coast, where the ocean shaped the way I see the world and drives my work in marine conservation and environmental science. This site is a window into my research, projects, and the work I care about most. Thanks for visiting, I hope you find something that interests you!\n\n\nEducation\nUniversity of California, Santa Barbara\nBachelor of Science in Environmental Studies\nSept 2022 - June 2026"
+  },
+  {
+    "objectID": "project_posts/SGSB.html",
+    "href": "project_posts/SGSB.html",
+    "title": "Spotting Giant Sea Bass",
+    "section": "",
+    "text": "I joined the Benioff Ocean Science Laboratory’s Spotting Giant Sea Bass Project as a Schmidt Environmental Solutions Fellow, and I haven’t been able to stop thinking about the giant fish ever since! After becoming project lead in January 2025, I now contribute to everything from data analysis and spot mapping to community outreach and social media. My senior thesis is bringing all of my work on this project full circle."
+  },
+  {
+    "objectID": "project_posts/SGSB.html#my-role",
+    "href": "project_posts/SGSB.html#my-role",
+    "title": "Spotting Giant Sea Bass",
+    "section": "",
+    "text": "I joined the Benioff Ocean Science Laboratory’s Spotting Giant Sea Bass Project as a Schmidt Environmental Solutions Fellow, and I haven’t been able to stop thinking about the giant fish ever since! After becoming project lead in January 2025, I now contribute to everything from data analysis and spot mapping to community outreach and social media. My senior thesis is bringing all of my work on this project full circle."
+  },
+  {
+    "objectID": "project_posts/SGSB.html#how-it-works",
+    "href": "project_posts/SGSB.html#how-it-works",
+    "title": "Spotting Giant Sea Bass",
+    "section": "How It Works",
+    "text": "How It Works\nThe Spotting Giant Sea Bass Project is a collaborative community science effort that taps into the knowledge and curiosity of the fishing and diving community. By collecting photos and videos submitted by everyday ocean-goers, we use advanced computer algorithms to match the unique spot patterns of individual giant sea bass. Spotting Giant Sea Bass is similar to a fingerprint database, but for a critically endangered fish that can grow to 800 pounds and live for 75 years. These matches help scientists piece together population numbers, movement patterns, and the use of marine protected areas."
+  },
+  {
+    "objectID": "project_posts/SGSB.html#about-giant-sea-bass",
+    "href": "project_posts/SGSB.html#about-giant-sea-bass",
+    "title": "Spotting Giant Sea Bass",
+    "section": "About Giant Sea Bass",
+    "text": "About Giant Sea Bass\nNicknamed the “King of the Kelp Forest,” Giant Sea Bass (Stereolepis gigas) are the largest resident bony fish in California and apex predators of the kelp forest ecosystem. Despite being protected by a California fishing moratorium and classified as Critically Endangered by the IUCN, their population has remained poorly understood — until now. A recent direct population assessment estimates that just over 1,220 adult giant sea bass called Southern California home between 2015 and 2022, offering the first concrete look at their numbers. While evidence suggests the population is slowly increasing, researchers caution that there is still a long way to go before recovery can be celebrated."
+  },
+  {
+    "objectID": "project_posts/SGSB.html#the-spotting-giant-sea-bass-project",
+    "href": "project_posts/SGSB.html#the-spotting-giant-sea-bass-project",
+    "title": "Spotting Giant Sea Bass",
+    "section": "The Spotting Giant Sea Bass Project",
+    "text": "The Spotting Giant Sea Bass Project\nThe Spotting Giant Sea Bass Project was created in 2017 to fill these gaps using community-sourced photos from recreational divers and fishers. To date, our database includes over 1,620 verified encounters contributed by 110 community scientists, from which we have identified 662 left-side and 627 right-side individuals using highly accurate pattern recognition software. This growing repository supports population estimates critical to evaluating recovery and management efforts, while also enabling research into aggregative behavior, spatial movement, and marine protected area use. Beyond the science, the project fosters a deeper appreciation for this flagship species."
+  },
+  {
+    "objectID": "project_posts/NASAHQ.html",
+    "href": "project_posts/NASAHQ.html",
+    "title": "Sustainability at NASA Headquarters",
+    "section": "",
+    "text": "In the Winter and Spring quarters of 2025, I worked as a Sustainability Intern for NASA Headquarters investigating the feasibility of using remote sensing and GIS to understand Invasive and Non-Native Plant Species (INPS) across NASA centers. Invasive species already cost the United States more than $21 billion annually in economic and health-related impacts, and many NASA centers had identified INPS as one of their most pressing environmental management challenges; however, there was a lack of a standardized monitoring approach.\nTo fill that gap, I conducted a comprehensive feasibility study, reviewing Natural Resource Management Plans, environmental resource documents, and existing scientific literature, while also interviewing natural resource staff at nine NASA centers across the country. I developed a weighted scoring system that evaluated each center across four categories — invasive species risk, land cover suitability, available imagery, and existing resources — to determine where remote sensing and GIS tools could be most effectively implemented.\nThe findings identified Wallops Flight Facility, Glenn Research Center, Kennedy Space Center, and Marshall Space Flight Center as the strongest candidates for implementation, each facing high INPS risk with the landscape characteristics and imagery resources to support a remote sensing approach. The study also highlighted Johnson Space Center as a potential model for network-wide adoption, given its existing GIS and remote sensing infrastructure. The final report offers NASA a practical roadmap for moving from fragmented, ground-based surveys toward a scalable, data-driven system for early detection and long-term monitoring of invasive species across its facilities."
+  },
+  {
+    "objectID": "project_posts/emLab.html",
+    "href": "project_posts/emLab.html",
+    "title": "Environmental Markets Lab",
+    "section": "",
+    "text": "In the Summer of 2025, I was an Arnhold Environmental Fellow at UCSB’s Environmental Markets Lab (emLab), working alongside two graduate student mentors on a project combining fisheries science and ocean conservation.\nFisheries bycatch, the accidental capture of non-target species like sea turtles, whale sharks, and hammerhead sharks, is one of the most pressing challenges in marine management, threatening to push some species toward extinction while simultaneously causing economic hardships for fishing communities. Existing management strategies like marine protected areas and seasonal closures help, but they’re rigid and slow to adapt to shifting species distributions and changing ocean conditions.\nOur work aimed to change that. We set out to develop a decision-support tool that integrates joint dynamic species distribution models into dynamic ocean management frameworks, giving tuna fisheries managers near real-time guidance on where to fish in the Eastern Tropical Pacific Ocean to maximize target catch while minimizing bycatch. What makes this approach special is that rather than modeling one species at a time, joint dynamic species distribution models simultaneously analyze multiple species, accounting for their interactions, shared prey, and environmental drivers under current conditions and future climate scenarios.\nMy contribution centered on a deep literature review of the habitat associations, diets, and ecology of nine bycatch species, including leatherback sea turtles, whale sharks, giant manta rays, and multiple shark species, alongside target species like yellowfin, bigeye, and albacore tuna and swordfish. One of my key findings was that scalloped and smooth hammerhead sharks, silky sharks, and oceanic whitetip sharks all share prey (squid and octopus) with our target tuna species, suggesting they compete for similar resources in overlapping habitats. Understanding these ecological connections is what allows the model to make more accurate, nuanced predictions about where bycatch risk is highest.\nThe ultimate goal is a practical tool that helps fishers and managers transition toward more sustainable, adaptive, and economically viable fisheries while also anticipating how species distributions might shift under future climate change."
+  },
+  {
+    "objectID": "project_posts/SproutUp.html",
+    "href": "project_posts/SproutUp.html",
+    "title": "Sprout Up!",
+    "section": "",
+    "text": "My Sprout Up journey started in Fall 2022 as a second-grade environmental science instructor. All of the moments in the classroom watching kids light up over water conservation, renewable energy, and strawberry DNA extraction made me realize just how much I love environmental education and science communication. I kept teaching every quarter, growing into a lead instructor role by Spring 2023.\nBy Fall 2023, I stepped into my first leadership position as Development Manager, where I led grant applications that raised over $6,000 to help the program grow. Now, as Director since Fall 2024, I oversee everything from communications with the National Team and weekly program meetings to instructor training and logistics. What started as a weekly classroom visit has turned into one of the most meaningful parts of my undergraduate experience."
   }
 ]

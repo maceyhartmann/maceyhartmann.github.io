@@ -1,0 +1,11 @@
+---
+title: "DEVELOP: NASA Ames Research Center"
+description: Coupling Satellite Observations and Machine Learning to Predict Future Fog Patterns Along the Coast Redwood Range
+---
+
+In the Summer of 2025, I participated in the NASA DEVELOP Program at NASA Ames Research Center. This experience was one of my first deep dives into geospatial data science. Alongside my team, I worked with Save The Redwoods League to investigate how climate change will affect coastal fog along the California coast, and what that means for the future of coast redwoods.
+
+Using GOES-18 and Aqua MODIS satellite data, we developed a method for detecting and quantifying coastal fog presence. From there, we trained a Random Forest machine learning model on historical fog and climate data to project fog frequency all the way through 2090. Our results suggested that fog would actually increase along most of the coast redwood range - an average of 3.4 more hours of fog per day — which would benefit redwood conservation and carbon sequestration. We also analyzed over two decades of sea and land surface temperature trends to better understand the environmental drivers behind those projections.
+
+The goal was to give Save the Redwoods League a new, data-driven tool to inform where and how they prioritize conservation. Protecting these ancient trees means understanding the invisible, foggy lifeline they depend on.
+
