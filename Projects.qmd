@@ -7,7 +7,7 @@ listing:
   sort: "title asc" # can also sort on more than one field
   categories: FALSE # allows you to sort posts by assigned categories 
 ---
-
+------------------------------------------------------------------------
 My passion for environmental science has taken me everywhere from the kelp forests of the Channel Islands, the towering coast redwood groves in northern California, and the communities of southern Chile. Currently, I lead the Spotting Giant Sea Bass Project at UC Santa Barbara's Benioff Ocean Science Laboratory and direct Sprout Up UCSB, a program bringing environmental education to local elementary schools. During my research journey, I have worked for NASA Ames Research Center, NASA Headquarters, NOAA Channel Islands National Marine Sanctuary, UCSB’s Environmental Markets Lab, and Pontificia Universidad Católica de Chile. Each research opportunity has shaped the way I think about science, people, and the environment.
 
 ------------------------------------------------------------------------

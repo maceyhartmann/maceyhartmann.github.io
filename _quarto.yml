@@ -3,9 +3,10 @@ project:
   output-dir: docs
 
 website:
+  site-url: https://maceyhartmann.github.io/
   favicon: media/fish.png
-  title: "Macey Hartmann"
   navbar:
+    title: "Macey Hartmann"
     left:
       - href: index.qmd
         text: Home
@@ -13,8 +14,8 @@ website:
         text: About
       - href: Projects.qmd
         text: Projects
-      - href: Presentations.qmd
-        text: Presentations
+      - href: SciComm.qmd
+        text: Science Communication
       - href: cv.qmd
         text: CV
 

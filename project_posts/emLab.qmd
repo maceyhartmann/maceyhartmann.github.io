@@ -4,7 +4,9 @@ description: Diving Deep into Dinner Plates and Distribution Models
 image: media/EmlabCover.jpeg
 ---
 
-In the Summer of 2025, I was an Arnhold Environmental Fellow at UCSB's Environmental Markets Lab (emLab), working alongside two graduate student mentors on a project combining fisheries science and ocean conservation.
+![EmLab Arnhold Fellows and Mentors](media/EmlabCover.jpeg)
+
+In the Summer of 2025, I was an Arnhold Environmental Fellow at UCSB's [Environmental Markets Lab (emLab)](https://emlab.ucsb.edu/), working alongside two graduate student mentors on a project combining fisheries science and ocean conservation.
 
 Fisheries bycatch, the accidental capture of non-target species like sea turtles, whale sharks, and hammerhead sharks, is one of the most pressing challenges in marine management, threatening to push some species toward extinction while simultaneously causing economic hardships for fishing communities. Existing management strategies like marine protected areas and seasonal closures help, but they're rigid and slow to adapt to shifting species distributions and changing ocean conditions.
 
@@ -14,4 +16,4 @@ My contribution centered on a deep literature review of the habitat associations
 
 The ultimate goal is a practical tool that helps fishers and managers transition toward more sustainable, adaptive, and economically viable fisheries while also anticipating how species distributions might shift under future climate change.
 
-
+![](files/Arnhold Flash Talk - Hartmann, Macey (7).pdf){width="95%" height="625"}
