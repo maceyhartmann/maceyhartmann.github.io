@@ -1,4 +1,13 @@
 ---
 title: "Science Communication"
-format: html
+toc: False
+listing: 
+  contents: scicomm_posts # all Quarto docs in the `posts` directory will be included on your listing page
+  type: grid # or `default` or `table`; each type has its own set of yaml options to include
+  sort: "title asc" # can also sort on more than one field
+  categories: FALSE # allows you to sort posts by assigned categories 
 ---
+
+------------------------------------------------------------------------
+
+------------------------------------------------------------------------

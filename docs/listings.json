@@ -11,5 +11,15 @@
       "/project_posts/SproutUp.html",
       "/project_posts/NASAHQ.html"
     ]
+  },
+  {
+    "listing": "/SciComm.html",
+    "items": [
+      "/scicomm_posts/HQ.html",
+      "/scicomm_posts/EEMB.html",
+      "/scicomm_posts/Ikelite.html",
+      "/scicomm_posts/Scuba.html",
+      "/scicomm_posts/Slam.html"
+    ]
   }
 ]

@@ -16,4 +16,4 @@ My contribution centered on a deep literature review of the habitat associations
 
 The ultimate goal is a practical tool that helps fishers and managers transition toward more sustainable, adaptive, and economically viable fisheries while also anticipating how species distributions might shift under future climate change.
 
-![](files/Arnhold Flash Talk - Hartmann, Macey (7).pdf){width="95%" height="625"}
+![](files/Arnhold_Flash_Talk.pdf){width="95%" height="625"}

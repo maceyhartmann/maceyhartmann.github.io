@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://maceyhartmann.github.io/cv.html</loc>
-    <lastmod>2026-02-22T05:15:18.156Z</lastmod>
+    <lastmod>2026-03-09T21:51:00.760Z</lastmod>
   </url>
   <url>
     <loc>https://maceyhartmann.github.io/project_posts/SproutUp.html</loc>
@@ -10,7 +10,7 @@
   </url>
   <url>
     <loc>https://maceyhartmann.github.io/project_posts/emLab.html</loc>
-    <lastmod>2026-03-09T20:04:14.287Z</lastmod>
+    <lastmod>2026-03-10T03:55:38.762Z</lastmod>
   </url>
   <url>
     <loc>https://maceyhartmann.github.io/project_posts/NASAHQ.html</loc>
@@ -26,7 +26,7 @@
   </url>
   <url>
     <loc>https://maceyhartmann.github.io/SciComm.html</loc>
-    <lastmod>2026-03-02T00:12:51.643Z</lastmod>
+    <lastmod>2026-03-10T20:27:20.642Z</lastmod>
   </url>
   <url>
     <loc>https://maceyhartmann.github.io/Projects.html</loc>
@@ -38,11 +38,11 @@
   </url>
   <url>
     <loc>https://maceyhartmann.github.io/project_posts/NOAA.html</loc>
-    <lastmod>2026-03-09T21:36:57.647Z</lastmod>
+    <lastmod>2026-03-10T03:59:49.938Z</lastmod>
   </url>
   <url>
     <loc>https://maceyhartmann.github.io/project_posts/ARC.html</loc>
-    <lastmod>2026-03-09T21:38:08.975Z</lastmod>
+    <lastmod>2026-03-10T04:06:12.295Z</lastmod>
   </url>
   <url>
     <loc>https://maceyhartmann.github.io/project_posts/ScientificDiving.html</loc>
@@ -50,6 +50,26 @@
   </url>
   <url>
     <loc>https://maceyhartmann.github.io/project_posts/SES.html</loc>
-    <lastmod>2026-03-09T21:34:09.937Z</lastmod>
+    <lastmod>2026-03-10T04:01:28.793Z</lastmod>
+  </url>
+  <url>
+    <loc>https://maceyhartmann.github.io/scicomm_posts/Slam.html</loc>
+    <lastmod>2026-03-10T20:11:05.178Z</lastmod>
+  </url>
+  <url>
+    <loc>https://maceyhartmann.github.io/scicomm_posts/HQ.html</loc>
+    <lastmod>2026-03-10T20:43:52.496Z</lastmod>
+  </url>
+  <url>
+    <loc>https://maceyhartmann.github.io/scicomm_posts/EEMB.html</loc>
+    <lastmod>2026-03-10T20:38:33.486Z</lastmod>
+  </url>
+  <url>
+    <loc>https://maceyhartmann.github.io/scicomm_posts/Scuba.html</loc>
+    <lastmod>2026-03-10T19:43:23.489Z</lastmod>
+  </url>
+  <url>
+    <loc>https://maceyhartmann.github.io/scicomm_posts/Ikelite.html</loc>
+    <lastmod>2026-03-10T20:26:53.572Z</lastmod>
   </url>
 </urlset>
