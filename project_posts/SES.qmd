@@ -6,7 +6,7 @@ image: media/SESCoverPhoto.jpg
 
 ![Working with the San Pedro School students](media/SESCoverPhoto.jpg)
 
-In the Fall of 2024, I studied abroad with UCEAP's Social Ecological Sustainability Program, living with a host family in Villarrica, Chile. This experience deepened my Spanish, immersed me in Chilean culture, and pushed my research in directions I hadn't expected.
+In the Fall of 2024, I studied abroad with [UCEAP's Social Ecological Sustainability Program](https://uceap.universityofcalifornia.edu/programs/social-ecological-sustainability), living with a host family in Villarrica, Chile. This experience deepened my Spanish, immersed me in Chilean culture, and pushed my research in directions I hadn't expected.
 
 <figure style="float: right; width: 250px; margin: 0 0 15px 20px;">
   <img src="media/SESHostFamily.jpeg" style="width: 100%; border-radius: 6px;">
@@ -26,7 +26,7 @@ We spent a day with thirteen sixth-grade students from Villa San Pedro Primary S
 
 ::: 
 
-The research revealed that while students demonstrated a solid foundation in environmental knowledge (correctly sorting recyclables, identifying sacred Mapuche species like the Araucaria), there remained meaningful gaps between classroom learning and everyday practice. Perhaps most memorably, it showed that children's connections to nature were often shaped more by family traditions and cultural memory than by formal education alone.
+The research revealed that while students demonstrated a solid foundation in environmental knowledge (correctly sorting recyclables, identifying sacred Mapuche species like the Araucaria), there remained meaningful gaps between classroom learning and everyday practice. Perhaps most memorably, it showed that children's connections to nature were often shaped more by family traditions and cultural memory than by formal education alone. Check out our final report below!
 
 ![](files/FINAL_REPORT_Education_Group.pdf){width="95%" height="625"}
 

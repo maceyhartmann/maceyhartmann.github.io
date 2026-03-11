@@ -1,5 +1,12 @@
 ---
-title: "Scuba"
-format: html
+title: "Spotting Giant Sea Bass"
+description: Outreach with Community Scientists
+image: media/SBNature.jpg
 ---
+
+![Presenting my research to a community scientist at SB Nature Underwater Parks Day!](media/SBNature.jpg)
+
+Connecting with the diving community is at the heart of the [Spotting Giant Sea Bass Project](https://spottinggiantseabass.msi.ucsb.edu/). As Project Lead, I regularly present at dive clubs across Southern California, such as Paradise Dive Club in Santa Barbara. I also represented the project at the 2025 Long Beach Scuba Show, one of the largest diving events on the West Coast. Beyond in-person outreach, I manage our [Instagram](https://www.instagram.com/spottinggiantseabass/) and [Facebook](https://www.facebook.com/profile.php?id=61556189081494) presence and produce our quarterly [newsletters](https://ucsb.us7.list-manage.com/subscribe?u=00a5c5945256dfae557c2b86d&id=994a72b3c1&utm_source=ig&utm_medium=social&utm_content=link_in_bio&fbclid=PAZnRzaAQd4qlleHRuA2FlbQIxMQBzcnRjBmFwcF9pZA8xMjQwMjQ1NzQyODc0MTQAAaehKuEyqziVKzIJ1DKhKR3rsKu5xQ-JPBOxTa3-22BHXAsNXxwnD9OqqEFJ3A_aem_G-00zBDUqs9NXp7bdo1-eQ), keeping our network of citizen scientists informed, engaged, and excited about giant sea bass recovery along the California coast.
+
+
 
