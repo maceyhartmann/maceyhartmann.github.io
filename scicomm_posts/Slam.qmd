@@ -1,6 +1,7 @@
 ---
 title: "UCSB Undergraduate Research Slam"
 description: 2024 Research Champion
+categories: Presentations
 image: media/Slam.PNG
 ---
 ![Can you say *Stereolepis gigas* three times fast?](media/Slam.PNG)

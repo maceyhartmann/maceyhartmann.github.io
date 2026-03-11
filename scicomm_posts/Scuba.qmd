@@ -1,6 +1,7 @@
 ---
 title: "Spotting Giant Sea Bass"
 description: Outreach with Community Scientists
+categories: Outreach
 image: media/SBNature.jpg
 ---
 

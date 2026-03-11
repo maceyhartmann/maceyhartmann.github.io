@@ -1,6 +1,7 @@
 ---
 title: "EEMB Undergraduate Research Symposium"
-description: Best Lightning Talk 
+description: Best Lightning Talk
+categories: Presentations
 image: media/EEMBCover.jpeg
 ---
 ![Posing with my award!](media/EEMBCover.jpeg)

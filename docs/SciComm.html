@@ -81,9 +81,9 @@ ul.task-list li input[type="checkbox"] {
     }
 
     const options = {
-      valueNames: ['listing-title','listing-author','listing-image','listing-description',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      valueNames: ['listing-title','listing-author','listing-image','listing-description','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
       
-      searchColumns: ["listing-title","listing-author","listing-image","listing-description"],
+      searchColumns: ["listing-title","listing-author","listing-image","listing-description","listing-categories"],
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
@@ -184,9 +184,10 @@ window.Quarto = {
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(5)</span></div><div class="category" data-category="T3V0cmVhY2g=">Outreach <span class="quarto-category-count">(1)</span></div><div class="category" data-category="UG9zdGVycw==">Posters <span class="quarto-category-count">(1)</span></div><div class="category" data-category="UHJlc2VudGF0aW9ucw==">Presentations <span class="quarto-category-count">(2)</span></div><div class="category" data-category="V3JpdHRlbiUyMENvbW11bmljYXRpb24=">Written Communication <span class="quarto-category-count">(1)</span></div></div></div>
 <!-- main -->
-<main class="content column-page" id="quarto-document-content">
+<main class="content column-page-left" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
@@ -195,7 +196,7 @@ window.Quarto = {
 
 
 
-<div class="quarto-title-meta column-page">
+<div class="quarto-title-meta column-page-left">
 
     
   
@@ -216,7 +217,7 @@ window.Quarto = {
 
 <div class="quarto-listing quarto-listing-container-grid" id="listing-listing">
 <div class="list grid quarto-listing-cols-3">
-<div class="g-col-1" data-index="0" data-listing-file-modified-sort="1773206189348" data-listing-reading-time-sort="1" data-listing-word-count-sort="68">
+<div class="g-col-1" data-index="0" data-categories="UG9zdGVycw==" data-listing-file-modified-sort="1773268065103" data-listing-reading-time-sort="1" data-listing-word-count-sort="68">
 <a href="./scicomm_posts/HQ.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
@@ -226,6 +227,11 @@ window.Quarto = {
 <h5 class="no-anchor card-title listing-title">
 DEVELOP Day at NASA Headquarters
 </h5>
+<div class="listing-categories">
+
+<div class="listing-category" onclick="window.quartoListingCategory('UG9zdGVycw=='); return false;">Posters</div>
+
+</div>
 <div class="card-text listing-description delink">
 <p>NASA HQ Poster Presentation</p>
 </div>
@@ -237,7 +243,7 @@ DEVELOP Day at NASA Headquarters
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="1" data-listing-file-modified-sort="1773175113486" data-listing-reading-time-sort="1" data-listing-word-count-sort="63">
+<div class="g-col-1" data-index="1" data-categories="UHJlc2VudGF0aW9ucw==" data-listing-file-modified-sort="1773268058421" data-listing-reading-time-sort="1" data-listing-word-count-sort="63">
 <a href="./scicomm_posts/EEMB.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
@@ -247,6 +253,11 @@ DEVELOP Day at NASA Headquarters
 <h5 class="no-anchor card-title listing-title">
 EEMB Undergraduate Research Symposium
 </h5>
+<div class="listing-categories">
+
+<div class="listing-category" onclick="window.quartoListingCategory('UHJlc2VudGF0aW9ucw=='); return false;">Presentations</div>
+
+</div>
 <div class="card-text listing-description delink">
 <p>Best Lightning Talk</p>
 </div>
@@ -258,7 +269,7 @@ EEMB Undergraduate Research Symposium
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="2" data-listing-file-modified-sort="1773174413572" data-listing-reading-time-sort="1" data-listing-word-count-sort="65">
+<div class="g-col-1" data-index="2" data-categories="V3JpdHRlbiUyMENvbW11bmljYXRpb24=" data-listing-file-modified-sort="1773268069914" data-listing-reading-time-sort="1" data-listing-word-count-sort="65">
 <a href="./scicomm_posts/Ikelite.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
@@ -268,6 +279,11 @@ EEMB Undergraduate Research Symposium
 <h5 class="no-anchor card-title listing-title">
 Ikelite Conservation Article
 </h5>
+<div class="listing-categories">
+
+<div class="listing-category" onclick="window.quartoListingCategory('V3JpdHRlbiUyMENvbW11bmljYXRpb24='); return false;">Written Communication</div>
+
+</div>
 <div class="card-text listing-description delink">
 <p>From Pixels to Preservation: How Community Scientists Are Documenting the Return of California’s Giant Sea Bass</p>
 </div>
@@ -279,7 +295,7 @@ Ikelite Conservation Article
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="3" data-listing-file-modified-sort="1773208481877" data-listing-reading-time-sort="1" data-listing-word-count-sort="104">
+<div class="g-col-1" data-index="3" data-categories="T3V0cmVhY2g=" data-listing-file-modified-sort="1773268075448" data-listing-reading-time-sort="1" data-listing-word-count-sort="104">
 <a href="./scicomm_posts/Scuba.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
@@ -289,6 +305,11 @@ Ikelite Conservation Article
 <h5 class="no-anchor card-title listing-title">
 Spotting Giant Sea Bass
 </h5>
+<div class="listing-categories">
+
+<div class="listing-category" onclick="window.quartoListingCategory('T3V0cmVhY2g='); return false;">Outreach</div>
+
+</div>
 <div class="card-text listing-description delink">
 <p>Outreach with Community Scientists</p>
 </div>
@@ -300,7 +321,7 @@ Spotting Giant Sea Bass
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="4" data-listing-file-modified-sort="1773173465178" data-listing-reading-time-sort="1" data-listing-word-count-sort="109">
+<div class="g-col-1" data-index="4" data-categories="UHJlc2VudGF0aW9ucw==" data-listing-file-modified-sort="1773268106836" data-listing-reading-time-sort="1" data-listing-word-count-sort="109">
 <a href="./scicomm_posts/Slam.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
@@ -310,6 +331,11 @@ Spotting Giant Sea Bass
 <h5 class="no-anchor card-title listing-title">
 UCSB Undergraduate Research Slam
 </h5>
+<div class="listing-categories">
+
+<div class="listing-category" onclick="window.quartoListingCategory('UHJlc2VudGF0aW9ucw=='); return false;">Presentations</div>
+
+</div>
 <div class="card-text listing-description delink">
 <p>2024 Research Champion</p>
 </div>

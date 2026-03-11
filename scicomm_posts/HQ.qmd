@@ -1,6 +1,7 @@
 ---
 title: "DEVELOP Day at NASA Headquarters"
 description: NASA HQ Poster Presentation
+categories: Posters
 image: media/ARCCoverImage.png
 ---
 ![Presenting my California Coast Ecological Conservation Poster!](media/ARCCoverImage.png)

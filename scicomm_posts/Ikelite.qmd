@@ -1,6 +1,7 @@
 ---
 title: "Ikelite Conservation Article"
 description: "From Pixels to Preservation: How Community Scientists Are Documenting the Return of California's Giant Sea Bass"
+categories: Written Communication
 image: media/IkeliteImage.png
 ---
 ![My article on the Ikelite Website!](media/IkeliteImage.png)
