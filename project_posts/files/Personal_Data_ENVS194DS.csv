@@ -1,0 +1,35 @@
+date,time_of_day,reading_duration,pages_read,reading_location,book_genre,distractions,school_day
+2026-01-26,21:30,20,15,home,fiction,no,yes
+2026-01-27,21:00,45,37,campus,fiction,no,yes
+2026-01-28,22:00,15,7,home,fiction,yes,yes
+2026-01-29,11:00,23,12,campus,fiction,yes,yes
+2026-01-30,20:00,35,28,home,fiction,no,yes
+2026-01-31,21:30,50,42,campus,fiction,no,no
+2026-02-01,10:00,60,35,outside,non-fiction,no,no
+2026-02-02,14:00,25,10,home,non-fiction,yes,yes
+2026-02-03,21:00,40,33,home,mystery,no,yes
+2026-02-04,9:00,70,48,coffee shop,fiction,no,yes
+2026-02-05,22:00,15,8,home,fiction,yes,yes
+2026-02-06,20:30,45,30,campus,non-fiction,no,yes
+2026-02-07,14:00,30,16,coffee shop,fiction,yes,no
+2026-02-08,21:00,55,46,home,romance,no,no
+2026-02-09,19:00,20,10,home,non-fiction,yes,yes
+2026-02-10,8:00,65,54,other,fiction,no,yes
+2026-02-11,21:30,40,31,home,mystery,no,yes
+2026-02-12,20:00,35,20,campus,non-fiction,yes,yes
+2026-02-13,14:00,10,5,home,fiction,yes,yes
+2026-02-14,15:00,50,37,coffee shop,romance,no,no
+2026-02-15,21:00,45,27,home,non-fiction,no,no
+2026-02-16,14:00,75,63,other,fiction,no,no
+2026-02-17,20:30,30,20,campus,mystery,yes,yes
+2026-02-18,21:00,55,47,home,fiction,no,no
+2026-02-19,22:00,20,8,home,non-fiction,yes,yes
+2026-02-20,14:00,60,43,coffee shop,romance,no,yes
+2026-02-21,15:00,40,34,campus,fiction,no,no
+2026-02-22,21:30,25,14,home,non-fiction,yes,no
+2026-02-23,20:00,50,41,home,mystery,no,yes
+2026-02-24,9:00,80,67,other,fiction,no,yes
+2026-02-25,21:00,35,23,campus,non-fiction,yes,yes
+2026-02-26,22:00,15,7,home,romance,yes,yes
+2026-02-27,20:30,45,38,home,fiction,no,no
+2026-02-28,11:00,55,38,coffee shop,non-fiction,no,no

@@ -1,0 +1,92 @@
+---
+title: "ENVS 193DS"
+description: "Personal Data Project in Statistics for Environmental Science"
+image: media/PersonalData.png
+---
+
+## Overview 
+
+For my ENVS 193DS course, I collected personal data to explore how 
+data science concepts show up in everyday life. My **central question** is: how 
+do reading location and reading duration relate to the number of pages I read?
+
+I was motivated by a belief that where I read and how long I spend reading seem to shape how much I actually get through. I wanted to see whether that perception was reflected in my data. My response variable is **pages read** and my predictors of interest are **reading location** and **reading duration (minutes)**.
+
+**Hypothesis:** I expect to read more pages in quieter, more focused environments 
+like coffee shops, and that longer reading sessions will consistently produce more 
+pages read regardless of location.
+
+I also tracked several additional variables that may shape reading output. 
+Book genre (fiction, non-fiction, mystery, romance) could affect reading pace 
+since some genres move faster than others. Finally, distractions may reduce 
+pages read by interrupting focus and flow. Check out the code and visualizations below to see what I found! 
+
+## Code
+
+```{r}
+#| label: Packages and Data
+#| message: false
+#| warning: false
+
+# read in packages here
+library(tidyverse) # general use
+library(here) # file organization
+library(janitor) # cleaning data frames
+
+#read in data here
+my_data <- read_csv(here("project_posts", "files", "Personal_Data_ENVS194DS.csv")) # read in personal data and save as an object called my_data
+```
+
+```{r}
+#| label: clean-personal-data
+#| message: false
+my_clean_data <- my_data |> # create object my_clean_data from my_data
+  clean_names()
+```
+
+```{r}
+#| label: personal-categorical-data
+#| message: false
+# base layer: ggplot 
+ggplot(data = my_clean_data, # use clean data
+       aes(x = reading_location, # categorical predictor on x-axis
+           y = pages_read, # response variable on y - axis 
+           color = reading_location # give each reading_location a different color 
+           )) + 
+# first layer: boxplot 
+geom_boxplot() + 
+# second layer: jitter plot 
+geom_jitter (height = 0, # no vertical jitter
+             width = 0.2) + # narrowing width of jitter
+labs(x = "Reading Location", # x-axis title
+     y = "Pages Read", # y-axis title
+     title = "Pages Read by Reading Location", # graph title
+      subtitle = "Most recent observation: Februrary 28, 2026") + # most recent date)
+   scale_color_brewer(palette = "Dark2") + # use Dark2 color palette from colorbrewer project
+  theme_minimal() + # set theme different from default 
+  theme(legend.position = "none") # remove legend
+```
+
+```{r}
+#| label: personal-continuous-data
+#| message: false
+#base layer: ggplot 
+ggplot(data = my_clean_data, # use my_clean_data
+       aes(x = reading_duration, # continuous predictor variable on x-axis
+            y = pages_read)) + # response variable on y-axis
+# first layer: Add scatterplot points
+  geom_point(color = "blue1", # use different color than default 
+             size = 3, # set point size
+             alpha = 0.7) + # make points more transparent
+   labs(x = "Reading Duration (minutes)", # x-axis title
+       y = "Pages Read", # y-axis title
+       title = "Longer Reading Sessions Lead to More Pages Read", # graph title
+      subtitle = "Most recent observation: Februrary 28, 2026") + # most recent date
+   theme_bw() # change theme from default
+```
+
+## Captions
+
+Figure 1. *Pages Read Varies Widely Across Reading Locations* The distribution of pages read by reading location (campus, coffee shop, home, other, and outside) across reading sessions is represented by the boxplot. Each point represents a reading session. Reading sessions in "other" locations had the highest median pages read (around 63 pages), while home reading sessions showed the most variability and lowest median (around 15 pages).
+
+Figure 2. *Longer Reading Sessions Consistently Produce More Page* The relationship between reading duration (minutes) and pages read across all reading sessions is represented in a scatterplot. The most recent observation was February 28, 2026, and each blue point represents a reading session.

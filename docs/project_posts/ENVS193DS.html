@@ -6,9 +6,9 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
-<meta name="description" content="Environmental Education for the Next Generation">
+<meta name="description" content="Personal Data Project in Statistics for Environmental Science">
 
-<title>Sprout Up!</title>
+<title>ENVS 193DS</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -20,6 +20,41 @@ ul.task-list li input[type="checkbox"] {
   width: 0.8em;
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
+}
+/* CSS for syntax highlighting */
+html { -webkit-text-size-adjust: 100%; }
+pre > code.sourceCode { white-space: pre; position: relative; }
+pre > code.sourceCode > span { display: inline-block; line-height: 1.25; }
+pre > code.sourceCode > span:empty { height: 1.2em; }
+.sourceCode { overflow: visible; }
+code.sourceCode > span { color: inherit; text-decoration: inherit; }
+div.sourceCode { margin: 1em 0; }
+pre.sourceCode { margin: 0; }
+@media screen {
+div.sourceCode { overflow: auto; }
+}
+@media print {
+pre > code.sourceCode { white-space: pre-wrap; }
+pre > code.sourceCode > span { text-indent: -5em; padding-left: 5em; }
+}
+pre.numberSource code
+  { counter-reset: source-line 0; }
+pre.numberSource code > span
+  { position: relative; left: -4em; counter-increment: source-line; }
+pre.numberSource code > span > a:first-child::before
+  { content: counter(source-line);
+    position: relative; left: -1em; text-align: right; vertical-align: baseline;
+    border: none; display: inline-block;
+    -webkit-touch-callout: none; -webkit-user-select: none;
+    -khtml-user-select: none; -moz-user-select: none;
+    -ms-user-select: none; user-select: none;
+    padding: 0 4px; width: 4em;
+  }
+pre.numberSource { margin-left: 3em;  padding-left: 4px; }
+div.sourceCode
+  {   }
+@media screen {
+pre > code.sourceCode > span > a:first-child::before { text-decoration: underline; }
 }
 </style>
 
@@ -70,21 +105,6 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
-<link href="../site_libs/htmltools-fill-0.5.9/fill.css" rel="stylesheet">
-<script src="../site_libs/htmlwidgets-1.6.4/htmlwidgets.js"></script>
-<script src="../site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
-<link href="../site_libs/leaflet-1.3.1/leaflet.css" rel="stylesheet">
-<script src="../site_libs/leaflet-1.3.1/leaflet.js"></script>
-<link href="../site_libs/leafletfix-1.0.0/leafletfix.css" rel="stylesheet">
-<script src="../site_libs/proj4-2.6.2/proj4.min.js"></script>
-<script src="../site_libs/Proj4Leaflet-1.0.1/proj4leaflet.js"></script>
-<link href="../site_libs/rstudio_leaflet-1.3.1/rstudio_leaflet.css" rel="stylesheet">
-<script src="../site_libs/leaflet-binding-2.2.3/leaflet.js"></script>
-<script src="../site_libs/leaflet-providers-2.0.0/leaflet-providers_2.0.0.js"></script>
-<script src="../site_libs/leaflet-providers-plugin-2.2.3/leaflet-providers-plugin.js"></script>
-<link href="../site_libs/leaflet-awesomemarkers-2.0.3/leaflet.awesome-markers.css" rel="stylesheet">
-<script src="../site_libs/leaflet-awesomemarkers-2.0.3/leaflet.awesome-markers.min.js"></script>
-<link href="../site_libs/fontawesome-4.7.0/font-awesome.min.css" rel="stylesheet">
 
 
 <link rel="stylesheet" href="../styles.css">
@@ -145,7 +165,9 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#sprout-up-santa-barbara-elementary-schools" id="toc-sprout-up-santa-barbara-elementary-schools" class="nav-link active" data-scroll-target="#sprout-up-santa-barbara-elementary-schools">Sprout Up Santa Barbara Elementary Schools</a></li>
+  <li><a href="#overview" id="toc-overview" class="nav-link active" data-scroll-target="#overview">Overview</a></li>
+  <li><a href="#code" id="toc-code" class="nav-link" data-scroll-target="#code">Code</a></li>
+  <li><a href="#captions" id="toc-captions" class="nav-link" data-scroll-target="#captions">Captions</a></li>
   </ul>
 </nav>
     </div>
@@ -154,12 +176,12 @@ ul.task-list li input[type="checkbox"] {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Sprout Up!</h1>
+<h1 class="title">ENVS 193DS</h1>
 </div>
 
 <div>
   <div class="description">
-    Environmental Education for the Next Generation
+    Personal Data Project in Statistics for Environmental Science
   </div>
 </div>
 
@@ -176,37 +198,82 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="media/SproutUpCover.jpeg" class="img-fluid figure-img"></p>
-<figcaption>My second grade students and teaching team!</figcaption>
-</figure>
-</div>
-<figure style="float: right; width: 250px; margin: 0 0 15px 20px;" class="figure">
-<img src="media/Sprout.jpeg" style="width: 100%; border-radius: 6px;" class="figure-img">
-<figcaption style="font-size: 0.85em; text-align: center;">
-Recruiting new volunteer instructors
-</figcaption>
-</figure>
-<p>My <a href="https://www.sproutup.org/">Sprout Up</a> journey started in Fall 2022 as an environmental science instructor in a second-grade classroom. Watching kids light up over water conservation, renewable energy, and strawberry DNA extraction made me realize just how much I love environmental education and science communication. I kept teaching every quarter, growing into a lead instructor role by Spring 2023, and stepping into my first leadership position as Development Manager by Fall 2023 — where I led grant applications that raised over $6,000 to help the program grow.</p>
-<figure style="float: right; width: 250px; margin: 0 0 15px 20px;" class="figure">
-<img src="media/SeaLeague.jpeg" style="width: 100%; border-radius: 6px;" class="figure-img">
-<figcaption style="font-size: 0.85em; text-align: center;">
-Collaborating with Sea League
-</figcaption>
-</figure>
-<p>Now, as Director since Fall 2024, I oversee a team of 50+ volunteer instructors bringing weekly hands-on science lessons to Title I elementary schools across Santa Barbara. Beyond the classroom, Sprout Up hosts an annual 5K around the UCSB Lagoon Lawn, partners with organizations like <a href="https://www.thesealeague.org/">Sea League</a> and the Isla Vista Community Services District, and runs quarterly fundraisers to keep our programming accessible and growing. What started as a weekly classroom visit has turned into one of the most meaningful parts of my undergraduate experience — and a constant reminder that every child deserves to see themselves as a scientist.</p>
-<section id="sprout-up-santa-barbara-elementary-schools" class="level1">
-<h1>Sprout Up Santa Barbara Elementary Schools</h1>
-<p>Check out the map below to see all the elementary schools Sprout Up reaches!</p>
-<div style="text-align: center; margin-bottom: 2rem;">
+<section id="overview" class="level2">
+<h2 class="anchored" data-anchor-id="overview">Overview</h2>
+<p>For my ENVS 193DS course, I collected personal data to explore how data science concepts show up in everyday life. My <strong>central question</strong> is: how do reading location and reading duration relate to the number of pages I read?</p>
+<p>I was motivated by a belief that where I read and how long I spend reading seem to shape how much I actually get through. I wanted to see whether that perception was reflected in my data. My response variable is <strong>pages read</strong> and my predictors of interest are <strong>reading location</strong> and <strong>reading duration (minutes)</strong>.</p>
+<p><strong>Hypothesis:</strong> I expect to read more pages in quieter, more focused environments like coffee shops, and that longer reading sessions will consistently produce more pages read regardless of location.</p>
+<p>I also tracked several additional variables that may shape reading output. Book genre (fiction, non-fiction, mystery, romance) could affect reading pace since some genres move faster than others. Finally, distractions may reduce pages read by interrupting focus and flow. Check out the code and visualizations below to see what I found!</p>
+</section>
+<section id="code" class="level2">
+<h2 class="anchored" data-anchor-id="code">Code</h2>
 <div class="cell">
+<div class="code-copy-outer-scaffold"><div class="sourceCode cell-code" id="cb1"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a><span class="co"># read in packages here</span></span>
+<span id="cb1-2"><a href="#cb1-2" aria-hidden="true" tabindex="-1"></a><span class="fu">library</span>(tidyverse) <span class="co"># general use</span></span>
+<span id="cb1-3"><a href="#cb1-3" aria-hidden="true" tabindex="-1"></a><span class="fu">library</span>(here) <span class="co"># file organization</span></span>
+<span id="cb1-4"><a href="#cb1-4" aria-hidden="true" tabindex="-1"></a><span class="fu">library</span>(janitor) <span class="co"># cleaning data frames</span></span>
+<span id="cb1-5"><a href="#cb1-5" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-6"><a href="#cb1-6" aria-hidden="true" tabindex="-1"></a><span class="co">#read in data here</span></span>
+<span id="cb1-7"><a href="#cb1-7" aria-hidden="true" tabindex="-1"></a>my_data <span class="ot">&lt;-</span> <span class="fu">read_csv</span>(<span class="fu">here</span>(<span class="st">"project_posts"</span>, <span class="st">"files"</span>, <span class="st">"Personal_Data_ENVS194DS.csv"</span>)) <span class="co"># read in personal data and save as an object called my_data</span></span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
+</div>
+<div class="cell">
+<div class="code-copy-outer-scaffold"><div class="sourceCode cell-code" id="cb2"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb2-1"><a href="#cb2-1" aria-hidden="true" tabindex="-1"></a>my_clean_data <span class="ot">&lt;-</span> my_data <span class="sc">|&gt;</span> <span class="co"># create object my_clean_data from my_data</span></span>
+<span id="cb2-2"><a href="#cb2-2" aria-hidden="true" tabindex="-1"></a>  <span class="fu">clean_names</span>()</span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
+</div>
+<div class="cell">
+<div class="code-copy-outer-scaffold"><div class="sourceCode cell-code" id="cb3"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb3-1"><a href="#cb3-1" aria-hidden="true" tabindex="-1"></a><span class="co"># base layer: ggplot </span></span>
+<span id="cb3-2"><a href="#cb3-2" aria-hidden="true" tabindex="-1"></a><span class="fu">ggplot</span>(<span class="at">data =</span> my_clean_data, <span class="co"># use clean data</span></span>
+<span id="cb3-3"><a href="#cb3-3" aria-hidden="true" tabindex="-1"></a>       <span class="fu">aes</span>(<span class="at">x =</span> reading_location, <span class="co"># categorical predictor on x-axis</span></span>
+<span id="cb3-4"><a href="#cb3-4" aria-hidden="true" tabindex="-1"></a>           <span class="at">y =</span> pages_read, <span class="co"># response variable on y - axis </span></span>
+<span id="cb3-5"><a href="#cb3-5" aria-hidden="true" tabindex="-1"></a>           <span class="at">color =</span> reading_location <span class="co"># give each reading_location a different color </span></span>
+<span id="cb3-6"><a href="#cb3-6" aria-hidden="true" tabindex="-1"></a>           )) <span class="sc">+</span> </span>
+<span id="cb3-7"><a href="#cb3-7" aria-hidden="true" tabindex="-1"></a><span class="co"># first layer: boxplot </span></span>
+<span id="cb3-8"><a href="#cb3-8" aria-hidden="true" tabindex="-1"></a><span class="fu">geom_boxplot</span>() <span class="sc">+</span> </span>
+<span id="cb3-9"><a href="#cb3-9" aria-hidden="true" tabindex="-1"></a><span class="co"># second layer: jitter plot </span></span>
+<span id="cb3-10"><a href="#cb3-10" aria-hidden="true" tabindex="-1"></a><span class="fu">geom_jitter</span> (<span class="at">height =</span> <span class="dv">0</span>, <span class="co"># no vertical jitter</span></span>
+<span id="cb3-11"><a href="#cb3-11" aria-hidden="true" tabindex="-1"></a>             <span class="at">width =</span> <span class="fl">0.2</span>) <span class="sc">+</span> <span class="co"># narrowing width of jitter</span></span>
+<span id="cb3-12"><a href="#cb3-12" aria-hidden="true" tabindex="-1"></a><span class="fu">labs</span>(<span class="at">x =</span> <span class="st">"Reading Location"</span>, <span class="co"># x-axis title</span></span>
+<span id="cb3-13"><a href="#cb3-13" aria-hidden="true" tabindex="-1"></a>     <span class="at">y =</span> <span class="st">"Pages Read"</span>, <span class="co"># y-axis title</span></span>
+<span id="cb3-14"><a href="#cb3-14" aria-hidden="true" tabindex="-1"></a>     <span class="at">title =</span> <span class="st">"Pages Read by Reading Location"</span>, <span class="co"># graph title</span></span>
+<span id="cb3-15"><a href="#cb3-15" aria-hidden="true" tabindex="-1"></a>      <span class="at">subtitle =</span> <span class="st">"Most recent observation: Februrary 28, 2026"</span>) <span class="sc">+</span> <span class="co"># most recent date)</span></span>
+<span id="cb3-16"><a href="#cb3-16" aria-hidden="true" tabindex="-1"></a>   <span class="fu">scale_color_brewer</span>(<span class="at">palette =</span> <span class="st">"Dark2"</span>) <span class="sc">+</span> <span class="co"># use Dark2 color palette from colorbrewer project</span></span>
+<span id="cb3-17"><a href="#cb3-17" aria-hidden="true" tabindex="-1"></a>  <span class="fu">theme_minimal</span>() <span class="sc">+</span> <span class="co"># set theme different from default </span></span>
+<span id="cb3-18"><a href="#cb3-18" aria-hidden="true" tabindex="-1"></a>  <span class="fu">theme</span>(<span class="at">legend.position =</span> <span class="st">"none"</span>) <span class="co"># remove legend</span></span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
 <div class="cell-output-display">
-<div class="leaflet html-widget html-fill-item" id="htmlwidget-8f5b64f6876963ef357d" style="width:100%;height:464px;"></div>
-<script type="application/json" data-for="htmlwidget-8f5b64f6876963ef357d">{"x":{"options":{"crs":{"crsClass":"L.CRS.EPSG3857","code":null,"proj4def":null,"projectedBounds":null,"options":{}}},"calls":[{"method":"addProviderTiles","args":["OpenStreetMap",null,null,{"errorTileUrl":"","noWrap":false,"detectRetina":false}]},{"method":"addAwesomeMarkers","args":[[34.417131,34.43237356193416,34.43065481207294,34.44191350294167,34.4446362885025,34.44029218966923,34.44754626590522,34.45059920757954,34.42575733976307,34.43924149191082,34.45534505619102,34.39872595312704,34.44960617291143,34.43644174355322,34.44686676693862,34.43301150978495],[-119.868633,-119.7342382492241,-119.8966294013607,-119.7285846418421,-119.7541435180229,-119.7973152148579,-119.847313861897,-119.8010044184796,-119.6782616883789,-119.8937575749116,-119.8158848000435,-119.7214721111562,-119.833757476763,-119.7695373614197,-119.8212374460753,-119.7945960037478],{"icon":"leaf","markerColor":"green","iconColor":"white","spin":false,"squareMarker":false,"iconRotate":0,"font":"monospace","prefix":"fa"},null,null,{"interactive":true,"draggable":false,"keyboard":true,"title":"","alt":"","zIndexOffset":0,"opacity":1,"riseOnHover":false,"riseOffset":250},["<strong>Isla Vista Elementary<\/strong><br>Grades: 1-2","<strong>Adams Elementary<\/strong><br>Grades: 1-2","<strong>Ellwood School<\/strong><br>Grades: 1-2","<strong>Peabody Elementary<\/strong><br>Grades: 1-2","<strong>Hope Elementary<\/strong><br>Grades: 1-2","<strong>El Camino School<\/strong><br>Grades: 1, 2 & 4","<strong>La Patera Elementary<\/strong><br>Grades: 1-2","<strong>Foothill Elementary<\/strong><br>Grades: 1-2","<strong>Franklin Elementary<\/strong><br>Grades: 1-2","<strong>Brandon School<\/strong><br>Grades: 1-2","<strong>Mountain View Elementary<\/strong><br>Grades: 1-2","<strong>Washington Elementary<\/strong><br>Grades: 1-2","<strong>Santa Barbara Charter<\/strong><br>Grades: 1-2","<strong>Vieja Valley Elementary<\/strong><br>Grades: 1-2","<strong>Kellogg Elementary<\/strong><br>Grades: 1-2","<strong>Hollister Elementary<\/strong><br>Grades: 1-2"],null,null,null,null,{"interactive":false,"permanent":false,"direction":"auto","opacity":1,"offset":[0,0],"textsize":"10px","textOnly":false,"className":"","sticky":true},null]},{"method":"addAwesomeMarkers","args":[34.414,-119.8489,{"icon":"graduation-cap","markerColor":"orange","iconColor":"white","spin":false,"squareMarker":false,"iconRotate":0,"font":"monospace","prefix":"fa"},null,null,{"interactive":true,"draggable":false,"keyboard":true,"title":"","alt":"","zIndexOffset":0,"opacity":1,"riseOnHover":false,"riseOffset":250},"<strong>UCSB — Sprout Up HQ<\/strong>",null,null,null,null,{"interactive":false,"permanent":false,"direction":"auto","opacity":1,"offset":[0,0],"textsize":"10px","textOnly":false,"className":"","sticky":true},null]}],"setView":[[34.43,-119.8],12,[]],"limits":{"lat":[34.39872595312704,34.45534505619102],"lng":[-119.8966294013607,-119.6782616883789]}},"evals":[],"jsHooks":[]}</script>
+<div>
+<figure class="figure">
+<p><img src="ENVS193DS_files/figure-html/personal-categorical-data-1.png" class="img-fluid figure-img" width="672"></p>
+</figure>
 </div>
 </div>
 </div>
+<div class="cell">
+<div class="code-copy-outer-scaffold"><div class="sourceCode cell-code" id="cb4"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb4-1"><a href="#cb4-1" aria-hidden="true" tabindex="-1"></a><span class="co">#base layer: ggplot </span></span>
+<span id="cb4-2"><a href="#cb4-2" aria-hidden="true" tabindex="-1"></a><span class="fu">ggplot</span>(<span class="at">data =</span> my_clean_data, <span class="co"># use my_clean_data</span></span>
+<span id="cb4-3"><a href="#cb4-3" aria-hidden="true" tabindex="-1"></a>       <span class="fu">aes</span>(<span class="at">x =</span> reading_duration, <span class="co"># continuous predictor variable on x-axis</span></span>
+<span id="cb4-4"><a href="#cb4-4" aria-hidden="true" tabindex="-1"></a>            <span class="at">y =</span> pages_read)) <span class="sc">+</span> <span class="co"># response variable on y-axis</span></span>
+<span id="cb4-5"><a href="#cb4-5" aria-hidden="true" tabindex="-1"></a><span class="co"># first layer: Add scatterplot points</span></span>
+<span id="cb4-6"><a href="#cb4-6" aria-hidden="true" tabindex="-1"></a>  <span class="fu">geom_point</span>(<span class="at">color =</span> <span class="st">"blue1"</span>, <span class="co"># use different color than default </span></span>
+<span id="cb4-7"><a href="#cb4-7" aria-hidden="true" tabindex="-1"></a>             <span class="at">size =</span> <span class="dv">3</span>, <span class="co"># set point size</span></span>
+<span id="cb4-8"><a href="#cb4-8" aria-hidden="true" tabindex="-1"></a>             <span class="at">alpha =</span> <span class="fl">0.7</span>) <span class="sc">+</span> <span class="co"># make points more transparent</span></span>
+<span id="cb4-9"><a href="#cb4-9" aria-hidden="true" tabindex="-1"></a>   <span class="fu">labs</span>(<span class="at">x =</span> <span class="st">"Reading Duration (minutes)"</span>, <span class="co"># x-axis title</span></span>
+<span id="cb4-10"><a href="#cb4-10" aria-hidden="true" tabindex="-1"></a>       <span class="at">y =</span> <span class="st">"Pages Read"</span>, <span class="co"># y-axis title</span></span>
+<span id="cb4-11"><a href="#cb4-11" aria-hidden="true" tabindex="-1"></a>       <span class="at">title =</span> <span class="st">"Longer Reading Sessions Lead to More Pages Read"</span>, <span class="co"># graph title</span></span>
+<span id="cb4-12"><a href="#cb4-12" aria-hidden="true" tabindex="-1"></a>      <span class="at">subtitle =</span> <span class="st">"Most recent observation: Februrary 28, 2026"</span>) <span class="sc">+</span> <span class="co"># most recent date</span></span>
+<span id="cb4-13"><a href="#cb4-13" aria-hidden="true" tabindex="-1"></a>   <span class="fu">theme_bw</span>() <span class="co"># change theme from default</span></span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
+<div class="cell-output-display">
+<div>
+<figure class="figure">
+<p><img src="ENVS193DS_files/figure-html/personal-continuous-data-1.png" class="img-fluid figure-img" width="672"></p>
+</figure>
+</div>
+</div>
+</div>
+</section>
+<section id="captions" class="level2">
+<h2 class="anchored" data-anchor-id="captions">Captions</h2>
+<p>Figure 1. <em>Pages Read Varies Widely Across Reading Locations</em> The distribution of pages read by reading location (campus, coffee shop, home, other, and outside) across reading sessions is represented by the boxplot. Each point represents a reading session. Reading sessions in “other” locations had the highest median pages read (around 63 pages), while home reading sessions showed the most variability and lowest median (around 15 pages).</p>
+<p>Figure 2. <em>Longer Reading Sessions Consistently Produce More Page</em> The relationship between reading duration (minutes) and pages read across all reading sessions is represented in a scatterplot. The most recent observation was February 28, 2026, and each blue point represents a reading session.</p>
 
 
 </section>

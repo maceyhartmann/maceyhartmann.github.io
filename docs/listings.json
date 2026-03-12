@@ -1,5 +1,19 @@
 [
   {
+    "listing": "/Projects.html",
+    "items": [
+      "/project_posts/ScientificDiving.html",
+      "/project_posts/ARC.html",
+      "/project_posts/ENVS193DS.html",
+      "/project_posts/emLab.html",
+      "/project_posts/NOAA.html",
+      "/project_posts/SES.html",
+      "/project_posts/SGSB.html",
+      "/project_posts/SproutUp.html",
+      "/project_posts/NASAHQ.html"
+    ]
+  },
+  {
     "listing": "/SciComm.html",
     "items": [
       "/scicomm_posts/HQ.html",
@@ -7,19 +21,6 @@
       "/scicomm_posts/Ikelite.html",
       "/scicomm_posts/Scuba.html",
       "/scicomm_posts/Slam.html"
-    ]
-  },
-  {
-    "listing": "/Projects.html",
-    "items": [
-      "/project_posts/ScientificDiving.html",
-      "/project_posts/ARC.html",
-      "/project_posts/emLab.html",
-      "/project_posts/NOAA.html",
-      "/project_posts/SES.html",
-      "/project_posts/SGSB.html",
-      "/project_posts/SproutUp.html",
-      "/project_posts/NASAHQ.html"
     ]
   }
 ]

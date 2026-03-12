@@ -23,6 +23,8 @@ Now, as Director since Fall 2024, I oversee a team of 50+ volunteer instructors 
 
 # Sprout Up Santa Barbara Elementary Schools
 
+Check out the map below to see all the elementary schools Sprout Up reaches!
+
 <div style="text-align: center; margin-bottom: 2rem;">
 ```{r echo=FALSE, message=FALSE, warning=FALSE}
 
