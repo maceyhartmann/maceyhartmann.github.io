@@ -8,6 +8,6 @@ image: media/ARCCoverImage.png
 ![Presenting my California Coast Ecological Conservation Poster!](media/ARCCoverImage.png){width=60%}
 :::
 
-Selected to represent our four-person NASA Ames Research Center team, I presented our California Coast Ecological Conservation poster at NASA Headquarters during the 2025 Earth Science DEVELOP Day. Our project used satellite remote sensing and machine learning to predict coastal fog patterns along the Northern California coast — research with direct implications for redwood forest conservation. Check out the poster below!
+Selected to represent my four-person NASA Ames Research Center team, I presented my California Coast Ecological Conservation poster at NASA Headquarters during the 2025 Earth Science DEVELOP Day. My team's project used satellite remote sensing and machine learning to predict coastal fog patterns along the Northern California coast — research with direct implications for redwood forest conservation. Check out the poster below!
 
 ![](files/2025Sum_ARC_CaliforniaCoastEco_Poster.pdf){width="95%" height="625"}
