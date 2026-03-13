@@ -4,7 +4,9 @@ description: 2024 Research Champion
 categories: Presentations
 image: media/Slam.PNG
 ---
-![Can you say *Stereolepis gigas* three times fast?](media/Slam.PNG)
+::: {style="text-align: center"}
+![Can you say *Stereolepis gigas* three times fast?](media/Slam.PNG){width=60%}
+:::
 
 Out of 15 finalists, I placed first in UC Santa Barbara's 2024 [Undergraduate Research Slam](https://urca.ucsb.edu/urca-week/slam). The Undergraduate Research Slam is a competition where participants have just three minutes and three slides to give a dynamic presentation of their research project. I presented my talk "Uncovering the Mysteries of the Giant Sea Bass: Integrating Technology and Community Science for Conservation". Watch my presentation [here](https://www.youtube.com/watch?v=-3eC0VqSbA0)!
 

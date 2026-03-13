@@ -4,7 +4,9 @@ description: Diving Deep into Dinner Plates and Distribution Models
 image: media/EmlabCover.jpeg
 ---
 
-![EmLab Arnhold Fellows and Mentors](media/EmlabCover.jpeg)
+::: {style="text-align: center"}
+![EmLab Arnhold Fellows and Mentors](media/EmlabCover.jpeg){width=60%}
+:::
 
 In the Summer of 2025, I was an Arnhold Environmental Fellow at UCSB's [Environmental Markets Lab (emLab)](https://emlab.ucsb.edu/), working alongside two graduate student mentors on a project combining fisheries science and ocean conservation.
 

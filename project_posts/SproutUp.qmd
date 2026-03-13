@@ -3,8 +3,10 @@ title: "Sprout Up!"
 description: Environmental Education for the Next Generation
 image: media/SproutUpCover.jpeg
 ---
-
 ![My second grade students and teaching team!](media/SproutUpCover.jpeg)
+
+# Overview
+
 <figure style="float: right; width: 250px; margin: 0 0 15px 20px;">
   <img src="media/Sprout.jpeg" style="width: 100%; border-radius: 6px;">
   <figcaption style="font-size: 0.85em; text-align: center;">Recruiting new volunteer instructors</figcaption>
@@ -21,7 +23,7 @@ Now, as Director since Fall 2024, I oversee a team of 50+ volunteer instructors 
 
 
 
-# Sprout Up Santa Barbara Elementary Schools
+# Map of Sprout Up Santa Barbara Elementary Schools
 
 Check out the map below to see all the elementary schools Sprout Up reaches!
 

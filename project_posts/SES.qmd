@@ -3,8 +3,9 @@ title: "Social Ecological Sustainability at Pontificia Universidad Catolica de C
 description: Growing Futures and Exploring Interculturality and Environmental Education in Arucania Primary Schools
 image: media/SESCoverPhoto.jpg
 ---
-
-![Working with the San Pedro School students](media/SESCoverPhoto.jpg)
+::: {style="text-align: center"}
+![Working with the San Pedro School students](media/SESCoverPhoto.jpg){width=60%}
+:::
 
 In the Fall of 2024, I studied abroad with [UCEAP's Social Ecological Sustainability Program](https://uceap.universityofcalifornia.edu/programs/social-ecological-sustainability), living with a host family in Villarrica, Chile. This experience deepened my Spanish, immersed me in Chilean culture, and pushed my research in directions I hadn't expected.
 

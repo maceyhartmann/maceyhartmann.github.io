@@ -3,7 +3,9 @@ title: "DEVELOP: NASA Ames Research Center"
 description: Coupling Satellite Observations and Machine Learning to Predict Future Fog Patterns Along the Coast Redwood Range
 image: media/NASAARCCoverPhoto.jpeg
 ---
-![Fog Team Photo (David Wilcox, Aubrey Palmer, Macey Hartmann, and Paul Seibert)](media/NASAARCCoverPhoto.jpeg)
+::: {style="text-align: center"}
+![Fog Team Photo (David Wilcox, Aubrey Palmer, Macey Hartmann, and Paul Seibert)](media/NASAARCCoverPhoto.jpeg){width=60%}
+:::
 
 In the Summer of 2025, I participated in the NASA DEVELOP Program at NASA Ames Research Center. This experience was one of my first deep dives into geospatial data science. Alongside my team, I worked with [Save the Redwoods League](https://www.savetheredwoods.org/?_gl=1*11i8h9p*_gcl_aw*R0NMLjE3NzMwODEyNzguQ2owS0NRanczN25OQmhEa0FSSXNBRUJHSThNMkNKbDB1NkVEUF84RXlzakttbVFMcGw0UURXd1M3N2FzNTBjd3B2cTBWaTFZMUJnYTBFRWFBb0NURUFMd193Y0I.*_gcl_au*MjAxODg3MTIyNy4xNzcyNDgxMzA0) to investigate how climate change will affect coastal fog along the California coast, and what that means for the future of coast redwoods.
 
